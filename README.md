@@ -1,3 +1,5 @@
+[**Visite a nova página de Vagas Tech (entry level e remotas)**](https://github.com/users/danvitoriano/projects/4)
+
 # Web Developers Hub
 
 Projeto com links para perfis de web developers disponíveis para contratação em São Paulo.
